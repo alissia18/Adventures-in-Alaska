@@ -1,0 +1,26 @@
+{
+  "name": "adventuresinalaska",
+  "version": "1.0.0",
+  "description": "creative computing project for university portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alissia18/adventuresinalaska.git"
+  },
+  "author": "Alissia Bocarro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alissia18/adventuresinalaska/issues"
+  },
+  "homepage": "https://github.com/alissia18/adventuresinalaska#readme",
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "jquery": "^3.6.0",
+    "paper": "^0.12.15",
+    "pixi.js": "^6.0.4",
+    "svg.js": "^2.7.1"
+  }
+}
